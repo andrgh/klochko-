@@ -1,0 +1,80 @@
+.body{
+    display: flex; 
+    justify-content: space-around; 
+    flex-wrap: wrap;
+}
+
+.capitan{
+
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+}
+.blackwidow{
+    background: linear-gradient(to bottom, #000066 0%, #0000cc 100%);
+    width: 450px;
+    height: 300px;
+    margin-top: -320px;
+    margin-left: 1450px;
+    border-radius: 20px;
+}
+.ironman{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    width: 450px;
+    height: 300px;
+    margin-top:-320px ;
+    margin-left: 970px;
+    border-radius: 20px;
+}
+.spiderman{
+    background: linear-gradient(to bottom, #000066 0%, #800000 100%);
+    width: 450px;
+    height: 300px;
+    margin-top:-317px ;
+    margin-left:490px ;
+    border-radius: 20px;
+}
+.capitan:hover {
+    transform-origin: left top;
+margin-top: -10px;
+margin-left: 20px;
+transition: margin-left 130ms;
+transition: margin-top 130ms;
+box-shadow: 0 10px 90px rgba(0, 0, 0, 0.4);
+} 
+
+.spiderman:hover {
+transform-origin: left top;
+margin-top: -10px;
+margin-left: 20px;
+transition: margin-left 130ms;
+transition: margin-top 130ms;
+box-shadow: 0 10px 90px rgba(0, 0, 0, 0.4);
+}
+
+.blackwidow:hover {
+    transform-origin: left top;
+margin-top: -10px;
+margin-left: 20px;
+transition: margin-left 130ms;
+transition: margin-top 130ms;
+box-shadow: 0 10px 90px rgba(0, 0, 0, 0.4);
+}
+.ironman:hover {
+    transform-origin: left top;
+margin-top: -10px;
+margin-left: 20px;
+transition: margin-left 130ms;
+transition: margin-top 130ms;
+box-shadow: 0 10px 90px rgba(0, 0, 0, 0.4);
+}
+
+h1{
+    margin-left: 250px;
+    color: transparent;    
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: linear-gradient(to right, rgb(201, 70, 18), rgb(117, 105, 117));
+}
+
