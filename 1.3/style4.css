@@ -1,0 +1,61 @@
+.div1{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    border-radius: 80px;
+    background: linear-gradient(to bottom left, #cc00cc 0%, #ffcc00 100%);
+}
+.div2{
+    position: absolute;
+    width: 265px;
+    height: 265px;
+    border-radius: 80px;
+    background: white;
+    margin-top:43px ;
+    margin-left: 43px;
+}
+.div3{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 50px;
+    background: linear-gradient(to bottom left, #cc00cc 0%, #ffcc00 100%);
+    margin-top:85px ;
+    margin-left: 85px;
+}
+.div4{
+    border-radius: 70px;
+    position: absolute;
+    background: white;
+    width: 140px;
+    height: 140px;
+    margin-top:106px ;
+    margin-left:109px ;
+}
+.div5{
+    border-radius: 70px;
+    position: absolute;
+    background: white;
+    width: 100px;
+    height: 100px;
+    margin-top:127px ;
+    margin-left:127px ; 
+}
+.div6{
+    border-radius: 70px;
+    position: absolute;
+    background:linear-gradient(to bottom left, #cc00cc 0%, #ffcc00 100%);
+    width: 80px;
+    height: 80px;
+    margin-top:135px ;
+    margin-left:140px ; 
+}
+.div7{
+    border-radius: 70px;
+    position: absolute;
+    background: white;
+    width: 20px;
+    height: 20px;
+    margin-top:98px ;
+    margin-left:220px ; 
+}
